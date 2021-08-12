@@ -8,7 +8,7 @@ React | Vue | Node | Express | MongoDB | HTML | CSS | JavaScript
 
 #### Portfolio
 
-![Portfolio](http://billcathey.com/portfolio/images/projects/project05.jpg)
+[![Portfolio][http://billcathey.com/portfolio/images/projects/project05.jpg]](http://billcathey.com/portfolio/)
 
 - 🌱 I’m currently learning Snowpack
 - 📫 How to reach me: [billcathey@hotmail.com](billcathey@hotmail.com)
