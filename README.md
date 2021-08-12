@@ -8,7 +8,7 @@ React | Vue | Node | Express | MongoDB | HTML | CSS | JavaScript
 
 ### Portfolio
 
-<a href="http://billcathey.com/portfolio/">
+<a href="http://billcathey.com/portfolio/" target="_blank">
   <img src="http://billcathey.com/portfolio/images/projects/project05.jpg" width="300" />
   </a>
 
