@@ -1,6 +1,6 @@
 ## Hi, I'm Bill
 
-I'm a frontend-focused full-stack web developer who loves building modern web applications and learning new technologies.
+I'm a frontend-focused, full-stack web developer who loves building modern web applications and learning new technologies.
 
 ### Technologies
 
