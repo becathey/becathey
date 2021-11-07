@@ -1,6 +1,6 @@
 ## Hi, I'm Bill
 
-I'm a full-stack web developer with a focus on the JavaScript ecosystem.
+I'm a frontend-focused full-stack web developer specializing in the JavaScript ecosystem.
 
 ### Technologies
 
